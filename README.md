@@ -67,7 +67,7 @@ sonaric identity-export -o node-ismi.identity
 # şifremizi girelim.
 ````
 
-> Yedekleme dosyası sunucumuzda - pc şarjı bitmek üzere onu daha sonra yazacağım veya pr atabilirsiniz.
+> Yedekleme dosyası sunucumuzda - pc şarjı bitmek üzere onu daha sonra yazacağım veya pr atabilirsiniz
 
 #
 
